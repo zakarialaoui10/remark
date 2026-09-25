@@ -372,6 +372,8 @@ The list of plugins:
   — new syntax for wiki links (rehype compatible)
 * 🟢 [`remark-yaml-config`](https://github.com/remarkjs/remark-yaml-config)
   — configure remark w/ YAML
+* 🟢 [`remark-mind-elixir`](https://github.com/zakarialaoui10/remark-plugins/blob/main/packages/mind-elixir/README.md)
+  - embed interactive [Mind Elixir](https://docs.mind-elixir.com/) mind maps, with client-side rendering powered by [Zikojs](https://github.com/zikojs/ziko).
 
 <!--lint enable media-style-->
 
