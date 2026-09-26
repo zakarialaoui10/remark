@@ -243,6 +243,8 @@ The list of plugins:
   — transform mermaid code blocks into inline SVGs
 * 🟢 [`remark-message-control`](https://github.com/remarkjs/remark-message-control)
   — turn some or all messages on or off
+* 🟢 [`remark-mind-elixir`](https://github.com/zakarialaoui10/remark-plugins/blob/main/packages/mind-elixir/README.md)
+  — embed interactive **Mind Elixir** mind maps, with client-side rendering powered by **Zikojs**.
 * 🟢 [`remark-normalize-headings`](https://github.com/remarkjs/remark-normalize-headings)
   — make sure at most one top-level heading exists
 * 🟢 [`remark-numbered-footnote-labels`](https://github.com/jackfletch/remark-numbered-footnote-labels)
@@ -372,8 +374,6 @@ The list of plugins:
   — new syntax for wiki links (rehype compatible)
 * 🟢 [`remark-yaml-config`](https://github.com/remarkjs/remark-yaml-config)
   — configure remark w/ YAML
-* 🟢 [`remark-mind-elixir`](https://github.com/zakarialaoui10/remark-plugins/blob/main/packages/mind-elixir/README.md)
-  - embed interactive [Mind Elixir](https://docs.mind-elixir.com/) mind maps, with client-side rendering powered by [Zikojs](https://github.com/zikojs/ziko).
 
 <!--lint enable media-style-->
 
